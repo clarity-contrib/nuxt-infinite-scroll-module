@@ -1,28 +1,27 @@
 {
   "name": "@forked-prs/nuxt-infinite-scroll-module",
-  "version": "0.0.1",
-  "license": "MIT",
-  "description": "Infinite Scroll module for nuxt js",
+  "version": "1.0.2",
+  "description": "A NuxtJS module for inifinte scroll pagination for your app",
   "main": "modules.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forked-prs/nuxt-infinite-scroll-module.git"
   },
   "keywords": [
     "nuxtjs-infinite-scroll",
     "infinite-scroll",
     "nuxtjs",
-    "vue"
+    "vue",
+    "ssr",
+    "plugin"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/forked-prs/nuxt-infinite-scroll-module.git"
-  },
-  "contributors": [
-    "Manash Sonowal <manash@149@gmail.com>"
-  ],
+  "author": "Manash Sonowal",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/forked-prs/nuxt-infinite-scroll-module/issues"
   },
-  "homepage": "https://github.com/forked-prs/nuxt-infinite-scroll-module#readme",
-  
+  "homepage": "https://github.com/forked-prs/nuxt-infinite-scroll-module#readme"
 }
